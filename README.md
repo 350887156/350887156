@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi 👋
 
 <a href="https://github.com/350887156" target="_blank">   
